@@ -1,4 +1,4 @@
-# 프로젝트 명 : Bora's Portfolio
+# Bora's Portfolio
 
 ## 프로젝트 목표
 취업을 위한 포트폴리오
