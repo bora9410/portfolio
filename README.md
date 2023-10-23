@@ -8,6 +8,14 @@
 - CSS
 - JavaScript
 - jQuery
+  
+## 사용 프로그램
+- Visual Studio Code
+- SASS
+- OpenWax (웹표준,접근성 진단)
+- CCA (색 명암 분석기)
+- W3C (마크업 검사)
+- WAVE (접근성 검사기)
 
 ## 기능 및 섹션
 - 자기소개 페이지
@@ -39,4 +47,3 @@ CGV : https://bora9410.github.io/pf8/
 ## 작성자 정보
 작성자 : 문보라
 E-MAIL : qhfk8804@gmail.com
-연락처 : 010-9910-9484
