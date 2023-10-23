@@ -73,7 +73,7 @@
     margin: 0 auto;
     display: block;
     min-height: 930px;
-    padding-bottom: 0;
+    padding-bottom: 20px;
   }
   #title .wrap img.title-img{
     width: 310px;
@@ -149,7 +149,7 @@
   
 /* ------------------- portfolio 영역 ------------------- */
   #portfolio .portfolio-title{
-    padding: 0;
+    padding-top: 30px;
     display: block;
     width: 90%;
   }
@@ -203,11 +203,7 @@
   #portfolio .wrap div .txt-container .txtbox-2 p{
     font-size: 16px;
   }
-  #portfolio .wrap div .txt-container .txtbox-2 h5{
-  padding-top: 10px;
-  font-size: 15px;
-  }
-  #portfolio .wrap div .txt-container .txtbox-2 a.more{
+  #portfolio .wrap div .txt-container .txtbox-2 .link a.more{
     
   }
   #portfolio .wrap div figure{
@@ -413,6 +409,7 @@
   }
   #portfolio .portfolio-title h2{
     font-size: 55px;
+    padding-top: 50px;
   }
   #portfolio .portfolio-title p{
     font-size: 15px;
@@ -465,7 +462,7 @@
   padding-top: 10px;
   font-size: 17px;
   }
-  #portfolio .wrap div .txt-container .txtbox-2 a.more{
+  #portfolio .wrap div .txt-container .txtbox-2 .link a.more{
     
   }
   #portfolio .wrap div figure{
